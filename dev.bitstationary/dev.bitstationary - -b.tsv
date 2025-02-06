@@ -3,7 +3,7 @@
 								
 	-	-b	:		Base	//	#	-
 								
-	-	whichIs29	:			//	1	-
+	-	whichIs29	:		Staircase	//	1	-
 	-		:			//	2	-
 	-		:			//	3	-
 	-		:			//	4	-
@@ -28,4 +28,4 @@
 	-		:			//	23	-
 	-		:			//	24	-
 	-		:			//	25	-
-	-	wakeUp28	:			//	26	-
+	-	wakeUp28	:		Quarantine	//	26	-
